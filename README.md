@@ -1,3 +1,7 @@
 ![Étape 1](./step1.jpg)
 ![Étape 2](./step2.jpg)
 ![Étape 3](./step3.jpg)
+![Étape 4](./step4.jpg)
+![Étape 5](./step5.jpg)
+![Texte-Image](./texte-image.jpg)
+![Conversions](./conversions.jpg)
