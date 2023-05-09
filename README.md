@@ -5,4 +5,5 @@
 ![Étape 5](./step5.jpg)
 ![Texte-Image](./texte-image.jpg)
 ![Conversions](./conversions.jpg)
+![Remplacement de texte par une icône](./tips-icon.png)
 ![Debug](./css-debug.png)
