@@ -5,5 +5,6 @@
 ![Étape 5](./step5.jpg)
 ![Texte-Image](./texte-image.jpg)
 ![Conversions](./conversions.jpg)
+![Conversions d'approche vers CSS](./tips-letter-spacing.png)
 ![Remplacement de texte par une icône](./tips-icon.png)
 ![Debug](./css-debug.png)
